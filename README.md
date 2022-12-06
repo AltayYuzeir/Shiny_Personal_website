@@ -14,8 +14,8 @@ Mobile version which is optimized for small screens in portrait mode - https://a
 5. Media center to upload video and photos
 6. Displayed CV with option to download
 7. Leave-a-message section with comprehensive user input control
-8. Multifuctional Appointments sections with comprehensive user input control
-9. Initeractive map of my life
+8. Multifunctional Appointments sections with comprehensive user input control
+9. Interactive map of my life
 
 ## Advanced functionality
 1. Custom colors for all boxes
