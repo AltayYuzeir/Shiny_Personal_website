@@ -13,7 +13,7 @@ Mobile version which is optimized for small screens in portrait mode - https://a
 1. Hyperlinks to LinkedIn, GitHub, Twitter and Gmail
 2. Basic information about education and experience
 3. Theses and publications are shown in tables
-4. Projects and industry knowledge with clicable boxes to download certificates and reports respectively
+4. Projects and industry knowledge with clickable boxes to download certificates and reports respectively
 5. Media center to upload video and photos
 6. Displayed CV with option to download
 7. Leave-a-message section with comprehensive user input control
