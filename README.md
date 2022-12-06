@@ -1,5 +1,8 @@
 # Shiny_Personal_website
 
+I have worked on this project on and off since over a year now.\
+I try to add new functionalities for the end user and for me all the time.
+
 Personal webpage built with R/Shiny - https://altayyuzeir.shinyapps.io/home/
 
 <img src="assets/website_desktop.png" align="right"/>
