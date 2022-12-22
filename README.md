@@ -25,3 +25,6 @@ Mobile version which is optimized for small screens in portrait mode - https://a
 2. Persistant data storage for sent messages and appointments
 3. Automatic device detection (Mobile/Desktop) and redirecting to the appropreate page
 4. Live notifications about messages or appointments send to phone in real time
+
+## Acknowledgement
+Based on initial template from [Xiaozhu-Zhang1998](https://github.com/Xiaozhu-Zhang1998/website-using-shiny).
